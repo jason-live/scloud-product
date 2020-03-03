@@ -1,6 +1,6 @@
 {
   "name": "scloud-product",
-  "version": "1.0.0",
+  "version": "1.4.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,15 @@
     "cz-conventional-changelog": "^3.1.0",
     "husky": "^4.2.3",
     "validate-commit-msg": "^2.14.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "validate-commit-msg"
+    }
   }
 }
