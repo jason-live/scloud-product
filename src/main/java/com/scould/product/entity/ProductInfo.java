@@ -44,7 +44,7 @@ public class ProductInfo {
     /**
      * 状态
      */
-    private String productStatus;
+    private Integer productStatus;
 
     /**
      * 类目编号
