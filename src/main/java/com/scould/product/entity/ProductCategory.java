@@ -17,7 +17,7 @@ public class ProductCategory {
 
     private String categoryName;
 
-    private String categoryType;
+    private Integer categoryType;
 
     private Date createTime;
     private Date updateTime;
