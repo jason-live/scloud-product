@@ -1,3 +1,12 @@
+## [1.4.7](https://github.com/jason-live/scloud-product/compare/v1.4.5...v1.4.7) (2020-03-09)
+
+
+### Features
+
+* :sparkles: 1.4.6 - 1.4.7章节 ([1a187d2](https://github.com/jason-live/scloud-product/commit/1a187d2b2a97910fa06c59bcc3f24a85077d7477))
+
+
+
 ## 1.4.5 (2020-03-03)
 
 
