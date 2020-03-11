@@ -29,6 +29,7 @@ public class ProductController {
 
     @GetMapping("/list")
     public ResultVo<ProductVo> list() {
+        // Todo
         /**
          * 查询所有在架商品
          */

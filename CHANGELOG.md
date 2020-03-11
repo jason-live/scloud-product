@@ -1,3 +1,22 @@
+## [1.5.2](https://github.com/jason-live/scloud-product/compare/v1.4.8...v1.5.2) (2020-03-11)
+
+
+### Features
+
+* :sparkles: RestTemplate的三种使用方式 ([93d7c43](https://github.com/jason-live/scloud-product/commit/93d7c438597a329041b92421c75bb1f1085f1980))
+
+
+
+## [1.4.8](https://github.com/jason-live/scloud-product/compare/v1.4.7...v1.4.8) (2020-03-10)
+
+
+### Features
+
+* :sparkles: 修改项目名称为product ([9b52787](https://github.com/jason-live/scloud-product/commit/9b5278724aa646c3707179d5c180d27bd8a3ad71))
+* :sparkles: 新增一个Todo ([ed02eb9](https://github.com/jason-live/scloud-product/commit/ed02eb989607a083e49ac0b4c9ed08bfb28b3e37))
+
+
+
 ## [1.4.7](https://github.com/jason-live/scloud-product/compare/v1.4.5...v1.4.7) (2020-03-09)
 
 
