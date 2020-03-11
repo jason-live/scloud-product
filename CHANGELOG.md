@@ -1,3 +1,12 @@
+## [1.5.2](https://github.com/jason-live/scloud-product/compare/v1.4.8...v1.5.2) (2020-03-11)
+
+
+### Features
+
+* :sparkles: RestTemplate的三种使用方式 ([93d7c43](https://github.com/jason-live/scloud-product/commit/93d7c438597a329041b92421c75bb1f1085f1980))
+
+
+
 ## [1.4.8](https://github.com/jason-live/scloud-product/compare/v1.4.7...v1.4.8) (2020-03-10)
 
 
