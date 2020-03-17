@@ -7,6 +7,7 @@ import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import java.util.Arrays;
 import java.util.List;
 
 @Component
@@ -18,6 +19,12 @@ public class ProductServiceTest extends ProductApplicationTests {
     @Test
     public void findUpAll() {
         List<ProductInfo> productInfoList = productService.findUpAll();
+        Assert.assertTrue(productInfoList.size() > 0);
+    }
+
+    @Test
+    public void findList() {
+        List<ProductInfo> productInfoList = productService.findList(Arrays.asList("157875196366160022", "164103465734242707"));
         Assert.assertTrue(productInfoList.size() > 0);
     }
 }
