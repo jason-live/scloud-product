@@ -1,5 +1,6 @@
 package com.scould.product.controller;
 
+import com.scould.product.dto.CartDto;
 import com.scould.product.entity.ProductCategory;
 import com.scould.product.entity.ProductInfo;
 import com.scould.product.service.CategoryService;
@@ -74,7 +75,17 @@ public class ProductController {
      * @return
      */
     @PostMapping("/listForOrder")
-    public List<ProductInfo> listForOrder(@RequestBody  List<String> productIdList) {
+    public List<ProductInfo> listForOrder(@RequestBody List<String> productIdList) {
         return productService.findList(productIdList);
+    }
+
+    /**
+     * 口库存
+     * @param cartDtoList
+     */
+    @PostMapping("/decreaseStock")
+    public String decreaseStock(@RequestBody List<CartDto> cartDtoList) {
+        productService.decreaseStock(cartDtoList);
+        return "ok";
     }
 }
