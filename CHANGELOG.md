@@ -1,3 +1,13 @@
+## [1.5.8](https://github.com/jason-live/scloud-product/compare/v1.5.2...v1.5.8) (2020-03-17)
+
+
+### Features
+
+* :sparkles: 1.5.7 获取商品列表 ([eb63469](https://github.com/jason-live/scloud-product/commit/eb63469c918682f88ad788cf43c423973f4c00b9))
+* :sparkles: 1.5.8 口库存 ([71d6c4a](https://github.com/jason-live/scloud-product/commit/71d6c4a3ed2881c3f2c97447572e021e912bc231))
+
+
+
 ## [1.5.2](https://github.com/jason-live/scloud-product/compare/v1.4.8...v1.5.2) (2020-03-11)
 
 
