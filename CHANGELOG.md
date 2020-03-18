@@ -1,3 +1,12 @@
+## [1.5.8-modules.1](https://github.com/jason-live/scloud-product/compare/v1.5.8...v1.5.8-modules.1) (2020-03-18)
+
+
+### Features
+
+* :sparkles: 项目拆分多模块 ([1481c57](https://github.com/jason-live/scloud-product/commit/1481c577aa49053b3a09abc4555a1400b4cf57d4))
+
+
+
 ## [1.5.8](https://github.com/jason-live/scloud-product/compare/v1.5.2...v1.5.8) (2020-03-17)
 
 
