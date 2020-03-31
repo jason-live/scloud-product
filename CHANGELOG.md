@@ -1,3 +1,12 @@
+## [1.7.10](https://github.com/jason-live/scloud-product/compare/v1.5.8-modules.2...v1.7.10) (2020-03-31)
+
+
+### Features
+
+* :sparles: 商品服务接入异步消息 ([c34dc40](https://github.com/jason-live/scloud-product/commit/c34dc40970c6584e5240db359731374df46fddec))
+
+
+
 ## 1.5.8-modules.2 (2020-03-25)
 
 
