@@ -1,3 +1,12 @@
+## [1.10.8](https://github.com/jason-live/scloud-product/compare/v1.7.10...v1.10.8) (2020-04-09)
+
+
+### Features
+
+* :sparkles: hystrix 完结 ([73e4238](https://github.com/jason-live/scloud-product/commit/73e42387b5347f09f0d97597050ed3b5e17b8e3e))
+
+
+
 ## [1.7.10](https://github.com/jason-live/scloud-product/compare/v1.5.8-modules.2...v1.7.10) (2020-03-31)
 
 
