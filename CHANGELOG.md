@@ -1,3 +1,12 @@
+## [1.11.2](https://github.com/jason-live/scloud-product/compare/v1.10.8...v1.11.2) (2020-04-09)
+
+
+### Features
+
+* :sparkles: 链路跟踪 ([a5ec588](https://github.com/jason-live/scloud-product/commit/a5ec588cbb5163bd3b6161f5832dbd1e451e587c))
+
+
+
 ## [1.10.8](https://github.com/jason-live/scloud-product/compare/v1.7.10...v1.10.8) (2020-04-09)
 
 
