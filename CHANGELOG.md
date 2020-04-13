@@ -1,3 +1,12 @@
+## [1.12.7](https://github.com/jason-live/scloud-product/compare/v1.11.2...v1.12.7) (2020-04-13)
+
+
+### Features
+
+* :sparkles: 1.12.7 ([283a8e8](https://github.com/jason-live/scloud-product/commit/283a8e8b465ad904f82bd8d24db2fcfff0570a1e))
+
+
+
 ## [1.11.2](https://github.com/jason-live/scloud-product/compare/v1.10.8...v1.11.2) (2020-04-09)
 
 
