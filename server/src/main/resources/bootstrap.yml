@@ -7,9 +7,13 @@ spring:
         enabled: true
         service-id: CONFIG
       profile: dev
-  zipkin:
-    base-url: http://127.0.0.1:9411/
+#  zipkin:
+#    base-url: http://127.0.0.1:9411/
 eureka:
   client:
     service-url:
-      defaultZone: http://127.0.0.1:8761/eureka/
+      defaultZone: http://eureka-master:8761/eureka/,http://eureka-assist:8762/eureka/
+  instance:
+    prefer-ip-address: true
+server:
+  port: 8082
